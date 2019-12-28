@@ -1,4 +1,4 @@
-# crypto
+# Cryptography
 
 This repo contains some algorithms for encryption and decryption of some famous
 cryptographic methods.
